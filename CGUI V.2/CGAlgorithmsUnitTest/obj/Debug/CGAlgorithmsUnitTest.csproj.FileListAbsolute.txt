@@ -1,0 +1,19 @@
+D:\Career\Teaching\Geometry\Student Packages\Geometry Package\CGUI\CGAlgorithmsUnitTest\bin\Debug\CGAlgorithmsUnitTest.dll
+D:\Career\Teaching\Geometry\Student Packages\Geometry Package\CGUI\CGAlgorithmsUnitTest\bin\Debug\CGAlgorithmsUnitTest.pdb
+D:\Career\Teaching\Geometry\Student Packages\Geometry Package\CGUI\CGAlgorithmsUnitTest\bin\Debug\CGUtilities.dll
+D:\Career\Teaching\Geometry\Student Packages\Geometry Package\CGUI\CGAlgorithmsUnitTest\bin\Debug\CGUtilities.pdb
+D:\Career\Teaching\Geometry\Student Packages\Geometry Package\CGUI\CGAlgorithmsUnitTest\obj\Debug\CGAlgorithmsUnitTest.csprojResolveAssemblyReference.cache
+D:\Career\Teaching\Geometry\Student Packages\Geometry Package\CGUI\CGAlgorithmsUnitTest\obj\Debug\CGAlgorithmsUnitTest.dll
+D:\Career\Teaching\Geometry\Student Packages\Geometry Package\CGUI\CGAlgorithmsUnitTest\obj\Debug\CGAlgorithmsUnitTest.pdb
+D:\Career\Teaching\Geometry\Student Packages\Geometry Package\CGUI\CGAlgorithmsUnitTest\bin\Debug\CGAlgorithms.dll
+D:\Career\Teaching\Geometry\Student Packages\Geometry Package\CGUI\CGAlgorithmsUnitTest\bin\Debug\CGAlgorithms.pdb
+D:\Academy\SC\Current Year\Second Term\Geometry\Labs\CGUI V.2\CGUI V.2\CGAlgorithmsUnitTest\bin\Debug\CGAlgorithmsUnitTest.dll
+D:\Academy\SC\Current Year\Second Term\Geometry\Labs\CGUI V.2\CGUI V.2\CGAlgorithmsUnitTest\bin\Debug\CGAlgorithmsUnitTest.pdb
+D:\Academy\SC\Current Year\Second Term\Geometry\Labs\CGUI V.2\CGUI V.2\CGAlgorithmsUnitTest\bin\Debug\CGAlgorithms.dll
+D:\Academy\SC\Current Year\Second Term\Geometry\Labs\CGUI V.2\CGUI V.2\CGAlgorithmsUnitTest\bin\Debug\CGUtilities.dll
+D:\Academy\SC\Current Year\Second Term\Geometry\Labs\CGUI V.2\CGUI V.2\CGAlgorithmsUnitTest\bin\Debug\CGAlgorithms.pdb
+D:\Academy\SC\Current Year\Second Term\Geometry\Labs\CGUI V.2\CGUI V.2\CGAlgorithmsUnitTest\bin\Debug\CGUtilities.pdb
+D:\Academy\SC\Current Year\Second Term\Geometry\Labs\CGUI V.2\CGUI V.2\CGAlgorithmsUnitTest\obj\Debug\CGAlgorithmsUnitTest.csprojResolveAssemblyReference.cache
+D:\Academy\SC\Current Year\Second Term\Geometry\Labs\CGUI V.2\CGUI V.2\CGAlgorithmsUnitTest\obj\Debug\CGAlgorithmsUnitTest.dll
+D:\Academy\SC\Current Year\Second Term\Geometry\Labs\CGUI V.2\CGUI V.2\CGAlgorithmsUnitTest\obj\Debug\CGAlgorithmsUnitTest.pdb
+D:\Academy\SC\Current Year\Second Term\Geometry\Labs\CGUI V.2\CGUI V.2\CGAlgorithmsUnitTest\bin\Debug\Algorithms\SegmentIntersection\SweepLine.cs

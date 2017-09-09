@@ -1,0 +1,14 @@
+D:\Career\Teaching\Geometry\Student Packages\Geometry Package\CGUI\CGUtilitiesUnitTest\bin\Debug\CGUtilitiesUnitTest.dll
+D:\Career\Teaching\Geometry\Student Packages\Geometry Package\CGUI\CGUtilitiesUnitTest\bin\Debug\CGUtilitiesUnitTest.pdb
+D:\Career\Teaching\Geometry\Student Packages\Geometry Package\CGUI\CGUtilitiesUnitTest\bin\Debug\CGUtilities.dll
+D:\Career\Teaching\Geometry\Student Packages\Geometry Package\CGUI\CGUtilitiesUnitTest\bin\Debug\CGUtilities.pdb
+D:\Career\Teaching\Geometry\Student Packages\Geometry Package\CGUI\CGUtilitiesUnitTest\obj\Debug\CGUtilitiesUnitTest.csprojResolveAssemblyReference.cache
+D:\Career\Teaching\Geometry\Student Packages\Geometry Package\CGUI\CGUtilitiesUnitTest\obj\Debug\CGUtilitiesUnitTest.dll
+D:\Career\Teaching\Geometry\Student Packages\Geometry Package\CGUI\CGUtilitiesUnitTest\obj\Debug\CGUtilitiesUnitTest.pdb
+D:\Academy\SC\Current Year\Second Term\Geometry\Labs\CGUI V.2\CGUI V.2\CGUtilitiesUnitTest\bin\Debug\CGUtilitiesUnitTest.dll
+D:\Academy\SC\Current Year\Second Term\Geometry\Labs\CGUI V.2\CGUI V.2\CGUtilitiesUnitTest\bin\Debug\CGUtilitiesUnitTest.pdb
+D:\Academy\SC\Current Year\Second Term\Geometry\Labs\CGUI V.2\CGUI V.2\CGUtilitiesUnitTest\bin\Debug\CGUtilities.dll
+D:\Academy\SC\Current Year\Second Term\Geometry\Labs\CGUI V.2\CGUI V.2\CGUtilitiesUnitTest\bin\Debug\CGUtilities.pdb
+D:\Academy\SC\Current Year\Second Term\Geometry\Labs\CGUI V.2\CGUI V.2\CGUtilitiesUnitTest\obj\Debug\CGUtilitiesUnitTest.csprojResolveAssemblyReference.cache
+D:\Academy\SC\Current Year\Second Term\Geometry\Labs\CGUI V.2\CGUI V.2\CGUtilitiesUnitTest\obj\Debug\CGUtilitiesUnitTest.dll
+D:\Academy\SC\Current Year\Second Term\Geometry\Labs\CGUI V.2\CGUI V.2\CGUtilitiesUnitTest\obj\Debug\CGUtilitiesUnitTest.pdb
